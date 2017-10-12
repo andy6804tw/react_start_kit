@@ -61,4 +61,4 @@ docker run --name reactmaker -d -P reactdocker
 
 ![](https://i.imgur.com/Fww1ncw.png)
 
-接著就可以在瀏覽器輸入localhost:32768看到我們包好的網頁了
+接著就可以在瀏覽器輸入localhost:32768看到包好的網頁了
